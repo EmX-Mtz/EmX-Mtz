@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Emmanuel Martínez</h1>
 
-<!--
-**EmX-Mtz/EmX-Mtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![followers](https://img.shields.io/github/followers/EmX-Mtz?style=social)
+![stars](https://img.shields.io/github/stars/EmX-Mtz?style=social)
 
-Here are some ideas to get you started:
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=EmX-Mtz&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EmX-Mtz&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EmX-Mtz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">My tech stack:</h3>
+<p align="center"> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="bootstrap" width="50" height="50"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Light.svg" width="50" height="50"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Julia-Light.svg" width="50" height="50"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Light.svg" width="50" height="50"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50" height="50"/> </a> 
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  Thanks for watching my profile! Have a nice day! :wink: <br/> 
+  &copy; 2024 Emmanuel Martínez <br/> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=EmX-Mtz&label=Profile%20views&color=0e75b6&style=flat" alt="EmX-Mtz" /> </p>
+</div>
+
+Last Edited on: 25/08/2024
