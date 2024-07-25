@@ -9,7 +9,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=EmX-Mtz&show_icons=true&theme=dark" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/?username=EmX-Mtz&show_icons=true&theme=dark" />
   <br></br>
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=EmX-Mtz&theme=dark&mode=weekly&hide_current_streak=true" /> 
 </td>
