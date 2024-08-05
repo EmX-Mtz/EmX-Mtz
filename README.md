@@ -24,12 +24,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">My tech stack:</h3>
 <p align="center"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="bootstrap" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Light.svg" width="50" height="50"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Julia-Light.svg" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Light.svg" width="50" height="50"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50" height="50"/> </a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="bootstrap" width="50" height="50"/> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Light.svg" width="50" height="50"/> </a> 
+<a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Julia-Light.svg" width="50" height="50"/> </a>
+<a href="https://la.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Light.svg" width="50" height="50"/> </a> 
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50"/> </a>
+<a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50" height="50"/> </a> 
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
