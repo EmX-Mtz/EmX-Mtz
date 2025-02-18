@@ -39,12 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EmX-Mtz/EmX-Mtz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/EmX-Mtz/count.svg?"  />
 </div>
